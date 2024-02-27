@@ -56,6 +56,3 @@ To display the help message, use the `-h` or `--help` option:
 python bearinger.py -h
 ```
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
